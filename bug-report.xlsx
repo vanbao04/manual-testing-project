@@ -1,1 +1,4 @@
+| Bug ID | Title                       | Steps to Reproduce                                              | Expected Result       | Actual Result         | Severity | Status |
+| ------ | --------------------------- | --------------------------------------------------------------- | --------------------- | --------------------- | -------- | ------ |
+| BUG01  | Login error message unclear | 1. Nhập đúng username<br>2. Nhập sai password<br>3. Click Login | Thông báo lỗi rõ ràng | Thông báo chung chung | Medium   | Open   |
 
