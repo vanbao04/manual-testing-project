@@ -1,1 +1,5 @@
+| Test Case ID | Test Name    | Steps                                                                   | Test Data        | Expected Result      | Actual Result | Status |
+| ------------ | ------------ | ----------------------------------------------------------------------- | ---------------- | -------------------- | ------------- | ------ |
+| TC01         | Login hợp lệ | 1. Mở trang login<br>2. Nhập đúng username & password<br>3. Click Login | user/pass hợp lệ | Đăng nhập thành công |               |        |
+| TC02         | Sai password | 1. Mở trang login<br>2. Nhập đúng username<br>3. Nhập sai password      | password sai     | Hiện thông báo lỗi   |               |        |
 
